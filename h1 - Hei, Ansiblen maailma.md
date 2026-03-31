@@ -13,13 +13,15 @@ x)
 - SSH on yleinen ja turvallinen kirjautumistapa.
 - Avainpari luodaan ssh-keygen komennolla.
 - Avain kopioidaan palvelimelle ssh-copy-id komennolla.
-- Kirjautuminen onnistuu ilman salasanaa. Kuinka todennäköistä on, että yksityinen avain joutuisi vääriin käsiin?
+- Kirjautuminen onnistuu ilman salasanaa.
+- Kuinka todennäköistä on, että yksityinen avain joutuisi vääriin käsiin?
 
 - Ansible toimii SSH:n kautta.
 - Komentoja voidaan ajaa useammalla koneella samaan aikaan.
 - Rooleilla on omat tehtävät.
 - Sisennykset tehdään välilyönnillä, ei TAB:illa.
-- Mahdollista automatisoida järjestelmiä helposti. Miksi sisennystä ei ole mahdollista tehdä TAB:illa?
+- Mahdollista automatisoida järjestelmiä helposti.
+- Miksi sisennystä ei ole mahdollista tehdä TAB:illa?
 
 
 ## Lähteet
